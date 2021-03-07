@@ -6,7 +6,7 @@
 Summary:	Fast HTML/XML Template Compiler
 Name:		python-%{module}
 Version:	2.11
-Release:	2
+Release:	3
 License:	BSD-derived (http://www.repoze.org/LICENSE.txt)
 Group:		Libraries/Python
 Source0:	http://pypi.python.org/packages/source/C/Chameleon/Chameleon-%{version}.tar.gz
